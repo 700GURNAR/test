@@ -1,0 +1,24 @@
+# 域名关键字匹配
+DOMAIN-KEYWORD,s1s1s1
+# 域名后缀匹配
+DOMAIN-SUFFIX,s1s1s1.com
+# 域名关键字匹配
+DOMAIN-KEYWORD,faleno
+# 域名后缀匹配
+DOMAIN-SUFFIX,faleno.com
+# 域名关键字匹配
+DOMAIN-KEYWORD,moodyz
+# 域名后缀匹配
+DOMAIN-SUFFIX,moodyz.com
+# 域名关键字匹配
+DOMAIN-KEYWORD,prestige
+# 域名后缀匹配
+DOMAIN-SUFFIX,prestige-av.com
+# 域名关键字匹配
+DOMAIN-KEYWORD,sod
+# 域名后缀匹配
+DOMAIN-SUFFIX,sod.co.jp
+# 域名关键字匹配
+DOMAIN-KEYWORD,av-e-body
+# 域名后缀匹配
+DOMAIN-SUFFIX,av-e-body
