@@ -21,4 +21,8 @@ DOMAIN-SUFFIX,sod.co.jp
 # 域名关键字匹配
 DOMAIN-KEYWORD,av-e-body
 # 域名后缀匹配
-DOMAIN-SUFFIX,av-e-body
+DOMAIN-SUFFIX,av-e-body.com
+# 域名关键字匹配
+DOMAIN-KEYWORD,dmm.co
+# 域名后缀匹配
+DOMAIN-SUFFIX,dmm.co.jp
